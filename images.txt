@@ -1,4 +1,2 @@
 doocs/md:latest
-vinlic/deepseek-free-api:latest
-vinlic/kimi-free-api:latest
-vinlic/qwen-free-api:latest
+xhofe/alist:latest
