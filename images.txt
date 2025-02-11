@@ -3,3 +3,4 @@ xhofe/alist:latest
 nginx:latest
 neosmemo/memos:stable
 mintplexlabs/anythingllm
+langgenius/dify
