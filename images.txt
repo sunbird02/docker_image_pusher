@@ -4,4 +4,4 @@ nginx:latest
 neosmemo/memos:stable
 mintplexlabs/anythingllm
 langgenius/dify:latest
-markitdown:latest
+microsoft/markitdown:latest
