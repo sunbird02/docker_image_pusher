@@ -1,7 +1,4 @@
 doocs/md:latest
 xhofe/alist:latest
-nginx:latest
-neosmemo/memos:stable
 mintplexlabs/anythingllm
-langgenius/dify:latest
-microsoft/markitdown:latest
+markitdown:latest
