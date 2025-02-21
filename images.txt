@@ -1,4 +1,4 @@
 doocs/md:latest
 xhofe/alist:latest
 mintplexlabs/anythingllm
-markitdown
+markitdown:latest
