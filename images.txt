@@ -1,4 +1,3 @@
 doocs/md:latest
 xhofe/alist:latest
 mintplexlabs/anythingllm
-microsoft/markitdown
