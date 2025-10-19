@@ -1,4 +1,4 @@
 doocs/md:latest
-xhofe/alist:latest
 mintplexlabs/anythingllm
 microsoft/markitdown:latest
+n8nio/n8n:nightly
